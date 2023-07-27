@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "64bf9125d13dc9bfc6243fc5"
+  },
+  "url_image": "https://images.tokopedia.net/img/cache/296/jJtrdn/2023/7/25/54170c78-31c1-4802-ae1f-359539adb410.jpg?ect=4g",
+  "products": [
+    {
+      "_id": {
+        "$oid": "64c076dd983152d7cce295bf"
+      },
+      "link_product": "https://www.tokopedia.com/constantinesport/celana-training-wanita-celana-olahraga-wanita-jogger-panjang-wanita-abu-abu-xl?extParam=ivf%3Dfalse&src=topads",
+      "price": 136000,
+      "title": "Celana Training Wanita"
+    },
+    {
+      "_id": {
+        "$oid": "64c0e4dca18253fafd1c6281"
+      },
+      "link_product": "https://www.tokopedia.com/waldos/baselayer-ladies-black-wanita-olahraga-zumba-senam-lari-outdoor-hitam-s",
+      "price": 100000,
+      "title": "Baselayer Zumba"
+    }
+  ],
+  "comments": [
+    {
+      "username": "dudi",
+      "comment": "Barang nya bagus",
+      "timestamp": {
+        "$date": "2023-07-26T15:18:44.297Z"
+      },
+      "_id": {
+        "$oid": "64c139549253aa4b410b68fc"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64c0e569a18253fafd1c6282"
+  },
+  "url_image": "https://images.tokopedia.net/img/cache/296/jJtrdn/2023/7/26/f66cd446-4465-440d-8b6d-60722a4ae25c.jpg?ect=4g",
+  "products": [
+    {
+      "_id": {
+        "$oid": "64c0e611a18253fafd1c6286"
+      },
+      "link_product": "https://www.tokopedia.com/akame-1/sepatu-boots-pria-safety-crocodile-armour-kerja-proyek-hiking-outdoor-kopi-39?extParam=ivf%3Dfalse&src=topads",
+      "price": 115000,
+      "title": "Boots Pria Hiking"
+    },
+    {
+      "_id": {
+        "$oid": "64c0e620a18253fafd1c6288"
+      },
+      "link_product": "https://www.tokopedia.com/rcm-1/sepatu-tactical-pdl-tni-polri-sepatu-safety-boots-militer-kariblues-hitam-39?extParam=ivf%3Dfalse%26src%3Dsearch",
+      "price": 175000,
+      "title": "Sepatu Boots Tactical"
+    }
+  ],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "64c1363e7ba8b04833fd8f53"
+  },
+  "url_image": "https://images.tokopedia.net/img/cache/296/jJtrdn/2023/7/20/a273123b-2d2a-4041-b816-da80f9c3e1fb.jpg?ect=4g",
+  "products": [
+    {
+      "_id": {
+        "$oid": "64c1367e7ba8b04833fd8f55"
+      },
+      "link_product": "https://www.tokopedia.com/desember1997/mouse-wireless-hp-s1000-silent-plus-wireless-hp-wireless-mouse-hitam?extParam=ivf%3Dfalse&src=topads\n",
+      "price": 50000,
+      "title": "Mouse HP S1000 Silent Hitam"
+    },
+    {
+      "_id": {
+        "$oid": "64c136d17ba8b04833fd8f57"
+      },
+      "link_product": "https://www.tokopedia.com/digital-alliance/mouse-gaming-digital-alliance-luna-rgb-gaming-mouse?extParam=ivf%3Dfalse%26whid%3D7127&src=topads",
+      "price": 115000,
+      "title": "Mouse Gaming Digital Alliance Luna RGB"
+    }
+  ],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "64c137307ba8b04833fd8f58"
+  },
+  "url_image": "https://images.tokopedia.net/img/cache/296/jJtrdn/2023/7/26/deed2325-d5ed-4b86-a04c-64ac9550ebd6.jpg?ect=4g",
+  "products": [
+    {
+      "_id": {
+        "$oid": "64c1374a7ba8b04833fd8f5a"
+      },
+      "link_product": "https://www.tokopedia.com/onixersofficialstore/onixers-impala-tas-backpack-pria-waterproof-biru?extParam=cmp%3D1%26ivf%3Dtrue&src=topads",
+      "price": 270000,
+      "title": "Onixers IMPALA Tas Backpack Pria Waterproof"
+    },
+    {
+      "_id": {
+        "$oid": "64c137827ba8b04833fd8f5c"
+      },
+      "link_product": "https://www.tokopedia.com/guteninc/guteninc-tas-ransel-pria-flip-backpack-flip?extParam=ivf%3Dfalse&src=topads",
+      "price": 180000,
+      "title": "Guteninc - Tas Ransel Pria Flip Backpack"
+    }
+  ],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "64c137b37ba8b04833fd8f5d"
+  },
+  "url_image": "https://images.tokopedia.net/img/cache/296/jJtrdn/2023/7/26/1efd3362-351a-488e-ae60-84501ee1863c.jpg?ect=4g",
+  "products": [
+    {
+      "_id": {
+        "$oid": "64c137c97ba8b04833fd8f5f"
+      },
+      "link_product": "https://www.tokopedia.com/twsofficial-store/lenovo-thinkplus-xt80-bluetooth-5-3-headset-olahraga-headset-telinga-hitam?extParam=ivf%3Dfalse&src=topads",
+      "price": 145000,
+      "title": "LENOVO THINKPLUS XT80 Bluetooth"
+    },
+    {
+      "_id": {
+        "$oid": "64c137ef7ba8b04833fd8f61"
+      },
+      "link_product": "https://www.tokopedia.com/izzy-audio/lenovo-th10-headphone-bluetooth-wireless-headset-earphone-v5-0-krem?extParam=cmp%3D1%26ivf%3Dfalse%26src%3Dsearch",
+      "price": 175000,
+      "title": "Lenovo TH10 Headphone Bluetooth"
+    }
+  ],
+  "comments": []
+}]
