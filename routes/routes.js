@@ -17,7 +17,7 @@ router.get('/video', async (req, res) => {
 //Get Product By Video ID Endpoint
 router.get('/video/:id/products', async (req, res) => {
     try {
-        const product = await Video.find({ _id: req.params.id }, { products: 1 });
+        const product = await Video.find({ _id: req.params.id }, { url_video:1,products: 1 });
         res.status(200).json(product);
     }
     catch (error) {
